@@ -1,0 +1,28 @@
+# Environment files (NEVER commit these)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+error_log
+
+# Cache
+*.cache
+.cache/
+
+# Session files
+session/
+sessions/
+
+# Temporary files
+tmp/
+temp/
